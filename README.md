@@ -9,7 +9,7 @@ The Architecture of the code:
 
 - Motion.py and the Motion folder :   This file handles robotic motion and includes things like data on each of the motors, read/write/record functions on the motors. The motion folder contains other files that are used by Motion.py such as recordings of animations. 
 
-- Vision.py and the Vision folder :  This file handles robotic vision and includes things like streaming from cameras, image processing, and also different object detection algorithms. The vision folder contains data that Vision.py uses such as neural netowrk models. 
+- Vision.py and the Vision folder :  This file handles robotic vision and includes things like streaming from cameras, image processing, and also different object detection algorithms. The vision folder contains data that Vision.py uses such as neural network models. 
 
 - Sound.py and the Sound folder  :  This file handles robotic sound, and includes things like working with speakers/microphones, playing/adjusting sound, text-to-speach, speach-to-text, and different chatbots. The sound folder contains data that Sound.py uses such as voice lines, audiobooks, and chatbot data. 
 

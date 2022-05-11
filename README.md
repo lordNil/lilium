@@ -3,7 +3,7 @@ Code for Robotic Brain V1
 
 The Code here will be the open source version of the brain for lilium robotics. It is intended to be a template code with various functions and parameters that people can play and explore with. That way, the brain can be improved as new external modules are added. The production code is a customized implementation of this open source version. 
 
-Only the basic functions have been implemented this code represents a template for starting development. 
+Only the basic functions have been implemented, and this code represents a template for starting development. 
 Different android models will have be different forks of this project. 
 Feel free to fork this project and add your own customization. 
 
